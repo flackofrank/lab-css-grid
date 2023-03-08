@@ -1,5 +1,8 @@
 /* Write your CSS here! */
-
+.primary-content, .header {
+  display: grid;
+  grid-template-columns: 20% 80%;
+}
 /* Do not change the CSS below. */
 
 .header {
